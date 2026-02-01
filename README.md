@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div>
-  <img src="assets/112.png" style="border-radius: 10px; box-shadow: 0 0 20px rgba(0,0,0,0.2); max-width: 100%;" />
+  <img src="assets/112x.png" style="border-radius: 10px; box-shadow: 0 0 20px rgba(0,0,0,0.2); max-width: 100%;" />
 </div>
 
 ###
@@ -14,7 +14,7 @@
 
 ###
 
-<h3 align="left">🌐 DEVELOPER PERSONA</h3>
+<h3 align="left">🌐 Developer Persona </h3>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="left">🪐 TECH ECOSYSTEM</h3>
+<h3 align="left">🪐 Tech Ecosystem </h3>
 
 ###
 
