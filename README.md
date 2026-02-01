@@ -1,6 +1,10 @@
 <br clear="both">
 
 <div>
+  <img src="assets/cvbanner.jpg" style="border-radius: 10px; box-shadow: 0 0 20px rgba(0,0,0,0.2); max-width: 100%;" />
+</div>
+
+<div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=99&section=header&reversal=false&fontSize=80&fontColor=FFFFFF&fontAlign=52&fontAlignY=50&rotate=33&stroke=FFFFFF&strokeWidth=3&animation=fadeIn&descSize=23&descAlign=52&descAlignY=52&textBg=false&color=gradient"  />
 </div>
 
