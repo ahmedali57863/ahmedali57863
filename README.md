@@ -114,3 +114,9 @@
   <a href="https://www.linkedin.com/in/muhammad-ahmed-849a3428a/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="36" height="21" alt="LinkedIn"/></a><a href="https://x.com/skahmed08" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="36" height="21" alt="Twitter"/></a><a href="https://discord.gg/kHXm4FPHHF" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="36" height="21" alt="Discord"/></a><a href="https://www.facebook.com/muhammad.ahmed.397077" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="36" height="21" alt="Facebook"/></a><a href="https://www.instagram.com/skahmeddd/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="36" height="21" alt="Instagram"/></a><a href="https://www.youtube.com/@raasta-e-hidayat" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="36" height="21" alt="YouTube"/></a><a href="mailto:ahmedali57863@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="36" height="21" alt="Email"/></a>
 </div>
 
+<div align="center">
+  <img 
+    src="https://raw.githubusercontent.com/ahmedali57863/ahmedali57863/output/github-snake-dark.svg"
+    alt="GitHub Snake Animation"
+  />
+</div>
