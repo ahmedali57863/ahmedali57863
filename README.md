@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div>
-  <img src="assets/cvbanner.jpg" style="border-radius: 10px; box-shadow: 0 0 20px rgba(0,0,0,0.2); max-width: 100%;" />
+  <img src="assets/112.png" style="border-radius: 10px; box-shadow: 0 0 20px rgba(0,0,0,0.2); max-width: 100%;" />
 </div>
 
 ###
@@ -111,39 +111,6 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/muhammad-ahmed-849a3428a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="36" height="21" alt="LinkedIn"/>
-  </a>
-
-  <a href="https://x.com/skahmed08" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="36" height="21" alt="Twitter"/>
-  </a>
-
-  <a href="https://discord.gg/kHXm4FPHHF" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="36" height="21" alt="Discord"/>
-  </a>
-
-  <a href="https://www.facebook.com/muhammad.ahmed.397077" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="36" height="21" alt="Facebook"/>
-  </a>
-
-  <a href="https://www.instagram.com/skahmeddd/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="36" height="21" alt="Instagram"/>
-  </a>
-
-  <a href="https://www.youtube.com/@raasta-e-hidayat" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="36" height="21" alt="YouTube"/>
-  </a>
-
-  <a href="mailto:ahmedali57863@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="36" height="21" alt="Email"/>
-  </a>
+  <a href="https://www.linkedin.com/in/muhammad-ahmed-849a3428a/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="36" height="21" alt="LinkedIn"/></a><a href="https://x.com/skahmed08" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="36" height="21" alt="Twitter"/></a><a href="https://discord.gg/kHXm4FPHHF" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="36" height="21" alt="Discord"/></a><a href="https://www.facebook.com/muhammad.ahmed.397077" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="36" height="21" alt="Facebook"/></a><a href="https://www.instagram.com/skahmeddd/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="36" height="21" alt="Instagram"/></a><a href="https://www.youtube.com/@raasta-e-hidayat" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="36" height="21" alt="YouTube"/></a><a href="mailto:ahmedali57863@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="36" height="21" alt="Email"/></a>
 </div>
 
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
-</div>
-
-###
