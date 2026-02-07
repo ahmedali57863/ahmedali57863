@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">⚡ BSIT Engineer | AI-Frontend Fusion | React & Tailwind Artist</p>
+<p align="left">⚡ BSIT Engineer | AI-Frontend Fusion | React & Tailwind Artist.</p>
 
 ###
 
